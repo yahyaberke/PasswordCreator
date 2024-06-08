@@ -56,7 +56,7 @@ int main() {
     char metin[1000];
     int oteleme_miktari;
 
-    // Kullanıcıdan metni ve öteleme miktarını isteyin hocam
+    // Kullanıcıdan metni ve öteleme miktarını isteyiniz
     printf("Test Değeri 1: Ö İ W N \nGeri öteleme miktarı: 11\n");
     printf("Metni girin: ");
     fgets(metin, sizeof(metin), stdin);
